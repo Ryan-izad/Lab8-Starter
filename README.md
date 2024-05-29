@@ -1,4 +1,7 @@
 # Lab8-Starter
+Ryan Izadshenas
+
+
 
 **How are graceful degredation and service workers related?**
 
